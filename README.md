@@ -8,8 +8,8 @@
 - **Phone:** +49 15 256 067890
 - **Links:**
   - website: https://artemkloko.github.io
-  - [English Resume (PDF)](https://artemkloko.github.io/Artem Titkov - Lead Software Engineer (EN).pdf)
-  - [German Resume (PDF)](https://artemkloko.github.io/Artem Titkov - Lead Software Engineer (DE).pdf)
+  - [English Resume (PDF)](https://artemkloko.github.io/Artem%20Titkov%20-%20Lead%20Software%20Engineer%20(EN).pdf)
+  - [German Resume (PDF)](https://artemkloko.github.io/Artem%20Titkov%20-%20Lead%20Software%20Engineer%20(DE).pdf)
   - email: mailto:artemkloko@gmail.com
   - github: https://github.com/artemkloko
   - docker: https://hub.docker.com/u/artemkloko
